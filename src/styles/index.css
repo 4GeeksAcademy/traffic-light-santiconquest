@@ -10,3 +10,17 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.circle{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+.selected{
+    box-shadow: rgb(246, 246, 44) 0px 0px 0px 3px;
+    
+}
+.traffic{
+    margin-left: 45%;
+}
